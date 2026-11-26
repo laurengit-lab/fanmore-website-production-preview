@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- FanMore: the wordmark's red F in Pilot Command, the brand guide's
+       display face, on the header navy. Outlined, because a favicon cannot
+       load a font. A single letter because Pilot Command is so wide that
+       "FM" side by side is five pixels tall in a browser tab. -->
+  <rect width="64" height="64" rx="12" fill="#0A006B"/>
+  <path fill="#FF2E49" transform="translate(10.00 50.57) scale(0.05663 -0.05663) translate(-36.0 0.0)" d="M701 423H232V465H813V656H36V0H232V231H701Z"/>
+</svg>

@@ -1,0 +1,1 @@
+var e=e=>String(e).replace(/0/g,`O`);export{e as t};
