@@ -1,1 +1,0 @@
-var e=matchMedia(`(prefers-reduced-motion: reduce)`),t=()=>e.matches,n=()=>innerWidth<=900,r=()=>parseFloat(document.documentElement.style.getPropertyValue(`--fit`))||1,i=(e,t,n)=>Math.min(n,Math.max(t,e));export{t as i,r as n,n as r,i as t};

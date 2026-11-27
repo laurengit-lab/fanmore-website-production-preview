@@ -1,0 +1,1 @@
+var e=matchMedia(`(prefers-reduced-motion: reduce)`),t=()=>e.matches,n=()=>innerWidth<=900,r=()=>parseFloat(document.documentElement.style.getPropertyValue(`--fit`))||1,i=(e,t,n)=>Math.min(n,Math.max(t,e)),a=()=>typeof CSS<`u`&&CSS.supports(`animation-timeline: view()`)&&CSS.supports(`animation-range: 0px 1px`);export{a,t as i,r as n,n as r,i as t};
